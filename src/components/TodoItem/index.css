@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.button {
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #ff0b37;
+  border: 1px #ff0b37 solid;
+  border-radius: 8px;
+  padding: 4px;
+  margin: 10px;
+  width: 80px;
+  cursor: pointer;
+  outline: none;
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+.p {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 16px;
+}
